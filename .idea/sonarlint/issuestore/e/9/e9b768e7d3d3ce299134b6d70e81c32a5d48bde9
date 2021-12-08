@@ -1,0 +1,8 @@
+
+C
+java:S1481
+"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
+E
+java:S1481"/Remove this unused "averageSum" local variable.(Ôò—¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¡§¢ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æèÊº

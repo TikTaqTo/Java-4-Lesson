@@ -1,0 +1,10 @@
+
+Z
+java:S1854">Remove this useless assignment to local variable "averageSum".(¨ªã#8„İ€Ù/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8™„İ€Ù/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïÚÂ‡8š„İ€Ù/
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(ƒûòÆşÿÿÿÿ8œ„İ€Ù/
+b
+java:S2184"@Cast one of the operands of this integer division to a "double".(ƒûòÆşÿÿÿÿ8œ„İ€Ù/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìæèÜ
